@@ -53,3 +53,7 @@ Currently in active development. The framework architecture is defined and the P
 ## Skills Demonstrated
 
 Multi-agent system design, agent orchestration patterns, prompt engineering for role-specific agents, product management process modeling, Hermes agent framework, iterative agentic workflow development.
+
+## Related
+
+The Coding Agent in this framework evolved from an earlier Scrum-based multi-agent workflow. For reference, see the [Coding Workflow diagram](../../assets/diagrams/Coding_Workflow.png).

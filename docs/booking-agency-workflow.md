@@ -43,3 +43,7 @@ Fully migrated to OpenClaw and productive. All agents are implemented and operat
 ## Skills Demonstrated
 
 Business process automation, multi-agent orchestration, API integration, prompt engineering, production-grade error handling, Supabase/PostgreSQL schema design, OpenClaw agent runtime.
+
+## Workflow Diagram
+
+For a visual overview of the agent architecture, see the [Booking Agency Workflow diagram](../../assets/diagrams/Booking_Agency_Linear.png).

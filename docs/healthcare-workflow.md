@@ -37,3 +37,7 @@ This project was foundational in establishing patterns I've since applied across
 ## Skills Demonstrated
 
 RAG system design, Supabase/pgvector integration, prompt engineering for structured outputs, n8n workflow architecture, healthcare data sensitivity awareness, production deployment for real users.
+
+## Workflow Diagram
+
+For a visual overview of the practice automation architecture, see the [Dermatology Practice Frontdesk diagram](../../assets/diagrams/Praxis_Frontdesk.png).
