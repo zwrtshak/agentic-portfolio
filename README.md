@@ -3,6 +3,8 @@
 **AI Workflow Engineer · Multi-Agent Systems · LLM Integration · n8n · OpenClaw · Hermes**
 
 Berlin-based builder specializing in production-grade AI automation systems. 20+ years background in music production and event coordination — now focused on designing and shipping agentic workflows that solve real business problems.
+From designing the logistical frameworks of large-scale music productions to implementing automation workflows in n8n, Andreas has consistently applied systems thinking to complex real-world processes — and now takes that foundation to the next level with autonomous agent systems like OpenClaw and Hermes.
+As a Digital Transformation Manager (IHK) and certified Scrum Master and Product Owner (Scrum.org) with a foundation in digital media design (Diploma, Kunsthochschule für Medien Köln), he operates at the cutting edge of AI, continuously refining and adapting to a field where the concepts, tools, and best practices shift faster than almost anywhere else in tech. 
 
 ---
 
